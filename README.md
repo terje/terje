@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there! 👋
 
-<!--
-**terje/terje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an enthusiastic and always curious professional software developer with over 20 years of experience building apps, websites and systems and running development teams.
 
-Here are some ideas to get you started:
+I am particularly interested in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Great collaborations
+* Building apps
+* Beautiful and beautifully written front-ends
+* Accessibility
+* Security
+* Open source
+
+📬 You can reach me on [LinkedIn](https://www.linkedin.com/in/terjetjervaag/)
+
+I also record and produce music. 🎸🎶 You can find more about that over at [Sound the Sea](https://soundthesea.com).
